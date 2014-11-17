@@ -5,5 +5,5 @@ Songbee will be a post-cloud music streaming app, similar to [Spotify](http://sp
 
 This is a meta-repository. It'll contain a TODO-list (currently at #1) and some project-wide issues discussed here. If you'd like to see some actual code (and are brave enough!), try these:
 
-* [peerez-framework](/Songbee/peerez-framework)
-* [peerez-app](/Songbee/peerez-app)
+* [peerez-app](https://github.com/Songbee/peerez-app)
+* [peerez-framework](https://github.com/Songbee/peerez-framework)
