@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Immersion",
+    "artist": "Pendulum",
+    "tracks": [{
+      "title": "Genesis",
+      "artists": [],
+      "filename": "01 Genesis.m4a"
+    }, {
+      "title": "Salt in the Wounds",
+      "artists": [],
+      "filename": "02 Salt In The Wounds.m4a"
+    }, {
+      "title": "Watercolour",
+      "artists": [],
+      "filename": "03 Watercolour.m4a"
+    }, {
+      "title": "Set Me On Fire",
+      "artists": [],
+      "filename": "04 Set Me on Fire.m4a"
+    }, {
+      "title": "Crush",
+      "artists": [],
+      "filename": "05 Crush.m4a"
+    }, {
+      "title": "Under the Waves",
+      "artists": [],
+      "filename": "06 Under The Waves.m4a"
+    }, {
+      "title": "Immunize",
+      "artists": ["Liam H"],
+      "filename": "07 Immunize (feat. Liam H).m4a"
+    }, {
+      "title": "The Island – Pt. I (Dawn)",
+      "artists": [],
+      "filename": "The Island - Pt. I (Dawn).m4a"
+    }, {
+      "title": "The Island – Pt. II (Dusk)",
+      "artists": [],
+      "filename": "09 The Island - Pt. 2 (Dusk).m4a"
+    }, {
+      "title": "Comprachicos",
+      "artists": [],
+      "filename": "10 Comprachicos.m4a"
+    }, {
+      "title": "The Vulture",
+      "artists": [],
+      "filename": "11 The Vulture.m4a"
+    }, {
+      "title": "Witchcraft",
+      "artists": [],
+      "filename": "12 Witchcraft.m4a"
+    }, {
+      "title": "Self vs Self",
+      "artists": ["In Flames"],
+      "filename": "13 Self vs Self (feat. In Flames).m4a"
+    }, {
+      "title": "The Fountain",
+      "artists": ["Steve Wilson"],
+      "filename": "14 The Fountain (feat. Steve Wilson).m4a"
+    }, {
+      "title": "Encoder",
+      "artists": [],
+      "filename": "15 Encoder.m4a"
+    }]
+  }
+}
